@@ -1,15 +1,16 @@
-# Flutter Example Snippets
+# Some Flutter Example Snippets
 
 ⚠️This code will NOT work standalone.⚠️
+ 
  Might be useful though... 
 
 This repository contains example snippets of Flutter code that demonstrate:
 
 - Google Maps integration with dynamic markers (MapPage.dart).
-  ![Map Page Screenshot](screenshots/map_screen.jpg)
+  <img src="screenshots/map_screen.jpg" alt="Map Page Screenshot" width="500">
 
 - Data filtering and sorting with a clean UI (TimelinePage.dart).
-  ![Timeline Screenshot](screenshots/timeline_screen.jpg)
+  <img src="screenshots/timeline_screen.jpg" alt="Timeline Screenshot" width="500">
 
 ---
 
